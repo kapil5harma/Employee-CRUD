@@ -1,3 +1,7 @@
+# Employee CRUD - React + Redux CRUD
+
+### A basic application created to demonstrate the CRUD functionality using React and Redux
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
